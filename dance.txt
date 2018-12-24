@@ -1,5 +1,9 @@
+turn around 
+step left and again right
+step right
+turn around and
+go ahead further
 step left
 step over
 turn around me
 step back
-turn around 
